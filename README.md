@@ -1,7 +1,7 @@
 ### Hi there 👋
-### 💻 I'm Security Engineer and Infra structure manager 👋
+### 💻 I'm Security Engineer and Infrastructure manager 👋
 ### 🌱 I’m currently learning Docker, Kubernetes
-### 🎁 Next year I want to work abroad
+### 🎁 Currently I'm in London
 
 <!--
 **n0wn3ss/n0wn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
